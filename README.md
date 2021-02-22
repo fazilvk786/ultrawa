@@ -1,10 +1,10 @@
-### Oiin sou o Toin
+### Who are you?
 
 
 
-<summary>🍙 Ajuda!</summary>
+<summary>🍙 Fazil!</summary>
 
-## Ferramentas
+## Required
 
 ```bash
 > Termux
@@ -15,11 +15,11 @@
 ---
 
 
-- Get BarBarKey on [this site](https://mhankbarbar.tech)
+- 
 
 ---
 
-## Instalar
+## Installing
 Siga os passos abaixo!
 
 ```bash
@@ -30,20 +30,20 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/ToinNetuh/ToiniuBot.git
-> cd ToiniuBot
+> git clone https://github.com/fazilvk786/ultrawa.git
+> cd ultrawa
 > bash install.sh
 ```
 
-## Uso
+## Use
 
 ```bash
 > npm start
 ```
 
-## características
+## commands
 
-| características únicas | sim
+| characteristics tools | state
 | :---------------------------------------------: | :-----------: |
 |  Registrar nome e idade|✅|
 |         Level    |✅|
